@@ -1,16 +1,24 @@
-## Hi there 👋
+## About
+Aerospace Engineer with a focus on modelling, controls, state estimation, simulation and optimization.
 
-<!--
-**miguel-frade/miguel-frade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Modeling and simulation
+- Flight dynamics
+- Control systems (linear and nonlinear)
+- State estimation (Kalman filtering and variants)
+- Engineering optimization (design and performance trade-offs)
 
-Here are some ideas to get you started:
+## Selected Projects
+- Quadrotor attitude control and simulation
+- Fixed-wing UAV propeller optimization
+- Propeller dynamics modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Languages
+- Python
+- C++
+- MATLAB / Simulink
+- ROS / ROS2
+- Fortran
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/miguelfradesaavedra/
