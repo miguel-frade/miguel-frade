@@ -1,5 +1,5 @@
 ## About
-Aerospace Engineer with a focus on modelling, controls, state estimation, simulation and optimization.
+Aerospace Engineer with a focus on modelling, controls, simulation and optimization.
 
 ## Interests
 - Modeling and simulation
