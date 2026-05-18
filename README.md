@@ -3,10 +3,10 @@ Aerospace Engineer with a focus on modelling, controls, state estimation, simula
 
 ## Interests
 - Modeling and simulation
+- Engineering optimization (design and performance trade-offs)
 - Flight dynamics
 - Control systems (linear and nonlinear)
 - State estimation (Kalman filtering and variants)
-- Engineering optimization (design and performance trade-offs)
 
 ## Selected Projects
 - Quadrotor attitude control and simulation
