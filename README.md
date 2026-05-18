@@ -9,7 +9,7 @@ Aerospace Engineer with a focus on modelling, controls, state estimation, simula
 - State estimation (Kalman filtering and variants)
 
 ## Selected Projects
-- Quadrotor attitude control and simulation
+- Quadrotor control and simulation
 - Fixed-wing UAV propeller optimization
 - Propeller dynamics modelling
 
